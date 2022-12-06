@@ -41,14 +41,12 @@ body {
 
 .header .header_p .header_link {
   color: var(--color_1);
-  text-decoration: none;
   font-weight: 700;
   font-size: 1.25rem;
   -webkit-filter: opacity(70%);
   filter: opacity(70%);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  text-decoration: underline;
 }
 
 .header .header_p .header_link:hover {
