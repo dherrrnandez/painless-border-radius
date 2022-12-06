@@ -48,6 +48,7 @@ body {
   filter: opacity(70%);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+  text-decoration: underline;
 }
 
 .header .header_p .header_link:hover {
